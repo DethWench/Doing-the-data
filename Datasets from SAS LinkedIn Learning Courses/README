@@ -1,0 +1,9 @@
+*README*
+This folder includes all of the intermediary datasets generated from the ETL code from the LinkedIn Learning courses, "SAS Essential Training: 1 Descriptive Analysis for Healthcare Research" and "SAS Essential Training: 2 Regression Analysis for Healthcare Research".
+
+The following datasets were omitted due to being too large:
+1. brfss_a.sas7bdat
+2. brfss_b.sas7bdat
+3. analytic.sas7bdat
+4. brfss_q.sas7bdat
+5. example.sas7bdat
