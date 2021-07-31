@@ -8,7 +8,7 @@ library(rmeta)
 
 #make calculations
 
-calc <- meta.DSL(Trt_Denom, Cnt_Denom, Trt_Num, Trt_Num, data=goofy, names=Name)
+calc <- meta.DSL(Trt_Denom, Cnt_Denom, Trt_Num, Cnt_Num, data=goofy, names=Name)
 
 summary(calc)
 
