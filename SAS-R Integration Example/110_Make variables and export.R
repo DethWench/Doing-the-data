@@ -14,7 +14,7 @@ BRFSS_b$MEDCOSTFLAG <- 0
 BRFSS_b$MEDCOSTFLAG[BRFSS_b$MEDCOST == 1] <- 1
 table(BRFSS_b$MEDCOSTFLAG, BRFSS_b$MEDCOST, useNA = c("always"))
 
-#advance prefix of data frame
+#advance suffix of data frame
 
 BRFSS_c <- BRFSS_b
 
