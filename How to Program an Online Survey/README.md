@@ -1,4 +1,4 @@
-# Files from "How to program a survey from scratch in Survey Monkey "
+# Files from "How to program a survey from scratch in Survey Monkey"
 
 ##  These files go with recorded livestream on YouTube: [Part 1](https://youtu.be/NhKdlEjkZXQ) and [Part 2](https://youtu.be/nJUa18bb3wE) 
 
