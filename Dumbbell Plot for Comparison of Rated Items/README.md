@@ -1,4 +1,4 @@
-# Files from "How to make a dumbell blot"
+# Files from "How to make a dumbell plot"
 
 ##  These files are from a video available on [YouTube](https://youtu.be/a9nnICyUj4Y) and a [blog post](https://dethwench.com/dumbbell-plot-for-comparison-of-rated-items/).
 
