@@ -8,6 +8,7 @@
 
 ### Blog posts
 * "Time Series Plots in R Using ggplot2 Are Ultimately Customizable" available [here.](https://dethwench.com/time-series-plots-in-r/)
+* "Pie Chart ggplot Style is Surprisingly Hard! Here’s How I Did it" availabel [here.](https://dethwench.com/pie-chart-ggplot-style-is-suprisingly-hard/)
 
 ### Videos
 * "How to Make a Time Series Plot with ggplot2 in R - Demonstration" available [here.](https://youtu.be/18OUvmmnnO8)
