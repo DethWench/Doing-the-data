@@ -5,7 +5,7 @@ piechart_df <- readRDS("piechart_df.rds")
 
 library(ggplot2)
 
-ggplot(piechart_df, aes("", Proportion, fill = Type)) +
+ggplot(piechart_df, aes(x = "", y = Proportion, fill = Type)) +
     geom_bar(width = 1, size = 1, color = "white", stat = "identity") +
     coord_polar("y") +
     geom_text(aes(label = paste0(round(Proportion*100,0), "%")), 
