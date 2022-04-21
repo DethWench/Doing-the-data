@@ -7,6 +7,7 @@
 * "How to Make Box Plots in R": [Link](https://youtu.be/hni3D1LE6qo)
 * "How to Find Percentiles Using quantile() in R": [Link](https://youtu.be/cYWHZWsMn4o)
 * "How to Use ggsave() to Export a Plot in R": [Link](https://youtu.be/bEWCE9FR7Ho)
+* "How to Run Code in R Four Different Ways": [Link](https://youtu.be/3C5uRfiRg0Q)
  
 
 <p align="center">
