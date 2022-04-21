@@ -14,3 +14,4 @@
 * "How to Make a Time Series Plot with ggplot2 in R - Demonstration" available [here.](https://youtu.be/18OUvmmnnO8)
 * "How to Make a Time Series Plot with Error Bars using ggplot2 in R - Demonstration" available [here.](https://youtu.be/FO0Nh8aP3lw)
 * "Running ggplot2 Code, Building Pie Chart, Line (Time Series) Chart, and Bar Plot – Demo, No Talking" available [here.](https://youtu.be/vsTDkz2nESQ)
+* "How to Make a Pie Chart with ggplot2 in R - Demonstration": available [here.](https://youtu.be/uNnBDy_LNvE)
