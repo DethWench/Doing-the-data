@@ -13,6 +13,10 @@
   <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Read-in-RDS-Youtube-Cover.jpg" alt="How to import an RDS file into R">
 </a>
 
+<a href="https://youtu.be/cARe1zpEW64" target="_blank">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Basic-Paste-YouTube-Cover.jpg" alt="How to use the paste command in R">
+</a>
+
 
 ##  These files also go with three blog posts:
 ### [Convert CSV to RDS When Using R for Easier Data Handling](https://dethwench.com/convert-csv-to-rds-in-r-for-easier-import-export/)
