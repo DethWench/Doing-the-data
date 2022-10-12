@@ -34,5 +34,12 @@
   <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/01/Banner_Pros-and-cons-of-native-data-formats-in-SAS-and-R.jpg" alt="Comparing native data formats in SAS and R">
 </a>
 
+### [The Paste Command in R is Great for Labels on Plots and Reports](https://dethwench.com/the-paste-command-in-r-for-making-labels/)
+
+<a href="https://dethwench.com/the-paste-command-in-r-for-making-labels/ " target="_blank">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Paste-values-together-for-labels-blog-cover.jpg" alt="Using the paste command for making labels for plots and reports">
+</a>
+
+
 
 
