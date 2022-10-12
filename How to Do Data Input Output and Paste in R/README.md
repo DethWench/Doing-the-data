@@ -5,6 +5,11 @@
   <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Read-CSV-into-R-YouTube-Cover.jpg" alt="How to Import a CSV into R">
 </a>
 
+<a href="https://youtu.be/dCD3kEZq6Gw" target="_blank">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Export-as-RDS-YouTube-Cover.jpg" alt="How to Export an RDS out of R">
+</a>
+
+
 ##  These files also go with three blog posts:
 ### [Convert CSV to RDS When Using R for Easier Data Handling](https://dethwench.com/convert-csv-to-rds-in-r-for-easier-import-export/)
 
