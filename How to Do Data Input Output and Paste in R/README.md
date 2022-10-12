@@ -9,6 +9,10 @@
   <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Export-as-RDS-YouTube-Cover.jpg" alt="How to Export an RDS out of R">
 </a>
 
+<a href="https://youtu.be/F7L5G6GE-Gc" target="_blank">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Read-in-RDS-Youtube-Cover.jpg" alt="How to import an RDS file into R">
+</a>
+
 
 ##  These files also go with three blog posts:
 ### [Convert CSV to RDS When Using R for Easier Data Handling](https://dethwench.com/convert-csv-to-rds-in-r-for-easier-import-export/)
