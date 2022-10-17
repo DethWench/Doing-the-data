@@ -9,6 +9,10 @@
   <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Referring-to-Values-in-Vector-YouTube-Cover.jpg" alt="How to Refer to Values in a Character Vector in R – Demonstration">
 </a>
 
+<a href="https://youtu.be/B5NYCsIW9ys" target="_blank">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Save-Column-Names-as-Vector-Youtube-Cover.jpg" alt="How to Save Column Names in a Vector in R – Demonstration">
+</a>
+
 <a href="https://youtu.be/Ut6DamzTfDk" target="_blank">
   <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Look-at-individual-columns-Youtube-Cover.jpg" alt="How to View One Column in a Dataframe in R – Demonstration">
 </a>
