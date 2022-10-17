@@ -25,6 +25,10 @@
   <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Rename-all-columns-in-YouTube-Cover.jpg" alt="How to Rename All Columns in a Data Frame in R – Demonstration">
 </a>
 
+<a href="https://youtu.be/ezsv6tRAe1k" target="_blank">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Find-Column-Number-YouTube-Cover.jpg" alt="How to Find the Column Number with a Column Name in R – Demonstration">
+</a>
+
 
 ##  These files also go with blog posts:
 ### [Referring to Columns in R by Name Rather than Number has Pros and Cons](https://dethwench.com/referring-to-columns-in-r-by-name-rather-than-number-has-pros-and-cons/)
