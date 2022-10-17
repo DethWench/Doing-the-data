@@ -13,6 +13,11 @@
   <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Look-at-individual-columns-Youtube-Cover.jpg" alt="How to View One Column in a Dataframe in R – Demonstration">
 </a>
 
+<a href="https://youtu.be/juwpHGfH88k" target="_blank">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Unique-values-in-columns-Youtube-Cover.jpg" alt="How to Find Unique Values in a Column in R – Demonstration">
+</a>
+
+
 ##  These files also go with blog posts:
 ### [Referring to Columns in R by Name Rather than Number has Pros and Cons](https://dethwench.com/referring-to-columns-in-r-by-name-rather-than-number-has-pros-and-cons/)
 
