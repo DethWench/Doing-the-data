@@ -2,7 +2,11 @@
 ##  These files go with eight videos on YouTube:
 
 <a href="https://youtu.be/xLpZRhvZdnw" target="_blank">
-  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Make-Character-Vector-YouTube-Cover.jpg" alt=" How to Make a Character Vector in R – Demonstration">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Make-Character-Vector-YouTube-Cover.jpg" alt="How to Make a Character Vector in R – Demonstration">
+</a>
+
+<a href="https://youtu.be/yqKlBqZ1X2o" target="_blank">
+  <img width="360"  border="0" align="center"  src="https://dethwench.com/wp-content/uploads/2022/10/Referring-to-Values-in-Vector-YouTube-Cover.jpg" alt="How to Refer to Values in a Character Vector in R – Demonstration">
 </a>
 
 ##  These files also go with blog posts:
