@@ -1,0 +1,31 @@
+MOSGRP,MOSDESC
+11,Infantry
+13,Artillery
+14,Air Defense
+15,Aviation
+18,Special Forces
+19,Armor
+21,Engineering (Construction)
+25,Signals (Communications)
+27,Legal Services
+31,Law Enforcement
+33,Electronic Warfare
+37,Psychological Operations
+38,Civil Affairs
+42,Administrative
+44,Finance
+45,Armament Maintenance
+46,Public Affairs
+52,Special Equipment
+56,Religious Services
+63,Vehicle Maintenance
+68,Medical
+74,Chemical Warfare
+79,Recruiting and Retention
+88,Transportation
+89,Explosives and Ammunition
+92,Supply and Logistics
+94,Electronic Maintenance
+96,Intelligence
+97,Counter/Human Intelligence
+98,Communications Intelligence

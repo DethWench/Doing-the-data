@@ -1,0 +1,6 @@
+AGEGRP,LowAge,HighAge,Description
+1,0,20,<20 years
+2,20,25,20-24 years
+3,25,30,25-29 years
+4,30,35,30-34 years
+5,35,99,35 + years
