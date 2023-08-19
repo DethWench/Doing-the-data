@@ -1,11 +1,11 @@
 # SAS Data Files from LinkedIn Learning Courses
 ## This folder contains the intermediary datasets for the LinkedIn Learning courses,  ["SAS Essential Training: 1 Descriptive Analysis for Healthcare Research"](https://www.linkedin.com/learning/sas-essential-training-1-descriptive-analysis-for-healthcare-research/sas-essential-training-descriptive-analysis?resume=false&u=2125562)  and  ["SAS Essential Training: 2 Regression Analysis for Healthcare Research"](https://www.linkedin.com/learning/sas-essential-training-2-regression-analysis-for-healthcare-research/introduction-to-the-course?resume=false&u=2125562). 
 <p>This folder includes all of the intermediary datasets generated from the ETL code. The following datasets were omitted due to being too large:</p>
-* brfss_a.sas7bdat
-* brfss_b.sas7bdat
-* analytic.sas7bdat
-* brfss_q.sas7bdat
-* example.sas7bdat
+<p>1. brfss_a.sas7bdat</p>
+<p>2. brfss_b.sas7bdat</p>
+<p>3. analytic.sas7bdat</p>
+<p>4. brfss_q.sas7bdat</p>
+<p>5. example.sas7bdat</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/learning/instructors/monika-wahi?u=2125562" target="_blank">
