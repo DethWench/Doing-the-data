@@ -1,7 +1,4 @@
 #set the working directory to the directory where you put data
-setwd("C:/Users/dethw/OneDrive/PersonalWork_SD/SAS Blog/Articles-Deth by Data/231030_NHANES data/Analytics/Data")
-
-#set the working directory to the directory where you put data
 setwd("C:/[fill in with your file location]")
 
 #use foreign package to import SAS xpt into R
